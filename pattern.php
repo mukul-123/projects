@@ -33,6 +33,7 @@ function trianglePattern(){
         }
 }
 
+// function to print sum of array elements without using loop...
 function sumArrayElementWithoutLoop(){
     // expected output be 15...
    $arr=[9,8,7,6,5];
